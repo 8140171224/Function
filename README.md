@@ -17,3 +17,11 @@ basic class and object
 
 
     person(age=85,name='pythonistas')
+
+# Function & default answer
+ 
+     def person(name,age=18):
+        print(name,age)
+
+
+     person(name='pythonistas')
