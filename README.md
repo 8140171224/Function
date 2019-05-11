@@ -36,4 +36,4 @@ basic class and object
         print(a)
 
 
-    sum(4,5,6
+    sum(4,5,6)
