@@ -27,13 +27,17 @@ basic class and object
      person(name='pythonistas')
 
 # Variable length argument function
-
+##
     def sum(a, *b):
         for i in b:
             a = a + i
-
-
         print(a)
-
-
     sum(4,5,6)
+##
+    def sum(*b):
+        a = 0
+        for i in b:
+            a = a + i
+        print(a)
+    sum(4,5,6)
+##
