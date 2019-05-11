@@ -9,3 +9,11 @@ basic class and object
         print(c)
 
     add(45,85)
+
+# Function & Keyword
+
+    def person(name,age):
+        print(name,age)
+
+
+    person(age=85,name='pythonistas')
