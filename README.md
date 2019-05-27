@@ -54,3 +54,9 @@ basic class and object
 
 
     person('pythonistas',age=20,city='La',mob=999999999)
+    
+# Information
+
+## BY aakash padhiyar
+
+## 8140171224
